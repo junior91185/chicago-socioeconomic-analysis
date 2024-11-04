@@ -27,7 +27,7 @@ Below is a brief overview of the SQL problems I solved, along with links to the 
 
 ## Problem 1: Find the total number of crimes recorded in the CRIME table.
 - **SQL Script**: [View SQL Script](sql_queries/problem_1_total_crimes.sql)
-- **Result**: [View Output](results/problem_1_output.txt)
+- **Result**: [View Output](results/problem_1_output.csv)
 
 ### Problem 2: Retrieve the first 10 rows from the CRIME table.
 - [SQL Script](sql_queries/problem_2_first_10_rows.sql)
