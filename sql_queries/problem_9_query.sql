@@ -1,0 +1,2 @@
+SELECT COMMUNITY_AREA_NAME, SAFETY_SCORE FROM chicago_public_schools
+WHERE SAFETY_SCORE = (SELECT MIN(SAFETY_SCORE) FROM chicago_public_schools);
