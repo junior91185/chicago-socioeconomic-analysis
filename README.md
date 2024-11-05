@@ -30,16 +30,40 @@ Below is a brief overview of the SQL problems I solved, along with links to the 
 - **Result**: [View Output](results/problem_1_output.csv)
 
 ### Problem 2: Retrieve the first 10 rows from the CRIME table.
-- [SQL Script](sql_queries/problem_2_first_10_rows.sql)
-- Result: `results/problem_2_output.txt`
+- **SQL Script**: [View SQL Script](sql_queries/problem_2_limit.sql)
+- **Result**: [View Output](results/problem_2_output.csv)
 
 ### Problem 3: How many crimes involve an arrest?
-- [SQL Script](sql_queries/problem_3_crimes_involving_arrests.sql)
-- Result: `results/problem_3_output.txt`
+- **SQL Script**: [View SQL Script](sql_queries/problem_3_query.sql)
+- **Result**: [View Output](results/problem_3_output.csv)
 
 ### Problem 4: Which unique types of crimes have been recorded at GAS STATION locations?
-- [SQL Script](sql_queries/problem_4_gas_station_crimes.sql)
-- Result: `results/problem_4_output.txt`
+- **SQL Script**: [View SQL Script](sql_queries/problem_4_query.sql)
+- **Result**: [View Output](results/problem_4_output.csv)
+
+### Problem 5: In the CENUS_DATA table list all Community Areas whose names start with the letter ‘B’.
+- **SQL Script**: [View SQL Script](sql_queries/problem_5_query.sql)
+- **Result**: [View Output](results/problem_5_output.csv)
+
+### Problem 6: Which schools in Community Areas 10 to 15 are healthy school certified?
+- **SQL Script**: [View SQL Script](sql_queries/problem_6_query.sql)
+- **Result**: [View Output](results/problem_6_output.csv)
+
+### Problem 7: What is the average school Safety Score?
+- **SQL Script**: [View SQL Script](sql_queries/problem_7_query.sql)
+- **Result**: [View Output](results/problem_7_output.csv)
+
+### Problem 8: List the top 5 Community Areas by average College Enrollment
+- **SQL Script**: [View SQL Script](sql_queries/problem_8_query.sql)
+- **Result**: [View Output](results/problem_8_output.csv)
+
+### Problem 9: Use a sub-query to determine which Community Area has the least value for school Safety Score?
+- **SQL Script**: [View SQL Script](sql_queries/problem_9_query.sql)
+- **Result**: [View Output](results/problem_9_output.csv)
+
+### Problem 10: [Without using an explicit JOIN operator] Find the Per Capita Income of the Community Area which has a school Safety Score of 1.
+- **SQL Script**: [View SQL Script](sql_queries/problem_10_query.sql)
+- **Result**: [View Output](results/problem_10_output.csv)
 
 ...
 
